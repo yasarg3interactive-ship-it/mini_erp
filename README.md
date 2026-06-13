@@ -4,3 +4,6 @@ Ithu Git commands practice cheyyan vendi undakkiya repo aanu - UPDATED BY A AND 
 
 ## Updates
 - Added by colleague
+
+## Contributors
+- Team Mini ERP
